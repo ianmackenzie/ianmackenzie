@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey! 👋
 
-<!--
-**ianmackenzie/ianmackenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer interested in:
 
-Here are some ideas to get you started:
+- 3D geometry
+- Computer-aided design (CAD)
+- Computer-aided manufacturing (CAM)
+- Using those to help address the climate crisis!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work as an [Elm](https://elm-lang.org/) developer at [Arrival](https://arrival.com/), and I maintain several open-source Elm packages including:
+
+- [`elm-units`](https://github.com/ianmackenzie/elm-units)
+- [`elm-geometry`](https://github.com/ianmackenzie/elm-geometry)
+- [`elm-3d-scene`](https://github.com/ianmackenzie/elm-3d-scene)
+
+You can generally find me (@ianmackenzie) on the [Elm Slack](https://elmlang.herokuapp.com/); I tend to hang out mostly in the **#geometry** and **#webgl** channels.
