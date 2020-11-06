@@ -12,4 +12,4 @@ I'm interested in:
 - Computer-aided manufacturing (CAM)
 - Using those to help address the climate crisis!
 
-You can generally find me (@ianmackenzie) on the [Elm Slack](https://elmlang.herokuapp.com/); I tend to hang out mostly in the **#geometry** and **#webgl** channels.
+You can generally find me (**@ianmackenzie**) on the [Elm Slack](https://elmlang.herokuapp.com/); I tend to hang out mostly in the **#geometry** and **#webgl** channels.
