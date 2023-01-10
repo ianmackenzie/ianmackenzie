@@ -1,5 +1,5 @@
 ### Hey! 👋
-I work as an [Elm](https://elm-lang.org/) developer at [Generative](https://generative.vision/), and I maintain several open-source Elm packages including:
+I work as a software developer at [Generative](https://generative.vision/), and I maintain several open-source Elm packages including:
 
 - [`elm-units`](https://github.com/ianmackenzie/elm-units)
 - [`elm-geometry`](https://github.com/ianmackenzie/elm-geometry)
